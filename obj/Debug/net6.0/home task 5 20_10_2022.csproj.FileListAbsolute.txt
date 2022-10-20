@@ -1,0 +1,15 @@
+C:\Users\ад\Desktop\home task 5 20_10_2022\bin\Debug\net6.0\home task 5 20_10_2022.exe
+C:\Users\ад\Desktop\home task 5 20_10_2022\bin\Debug\net6.0\home task 5 20_10_2022.deps.json
+C:\Users\ад\Desktop\home task 5 20_10_2022\bin\Debug\net6.0\home task 5 20_10_2022.runtimeconfig.json
+C:\Users\ад\Desktop\home task 5 20_10_2022\bin\Debug\net6.0\home task 5 20_10_2022.dll
+C:\Users\ад\Desktop\home task 5 20_10_2022\bin\Debug\net6.0\home task 5 20_10_2022.pdb
+C:\Users\ад\Desktop\home task 5 20_10_2022\obj\Debug\net6.0\home task 5 20_10_2022.csproj.AssemblyReference.cache
+C:\Users\ад\Desktop\home task 5 20_10_2022\obj\Debug\net6.0\home task 5 20_10_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ад\Desktop\home task 5 20_10_2022\obj\Debug\net6.0\home task 5 20_10_2022.AssemblyInfoInputs.cache
+C:\Users\ад\Desktop\home task 5 20_10_2022\obj\Debug\net6.0\home task 5 20_10_2022.AssemblyInfo.cs
+C:\Users\ад\Desktop\home task 5 20_10_2022\obj\Debug\net6.0\home task 5 20_10_2022.csproj.CoreCompileInputs.cache
+C:\Users\ад\Desktop\home task 5 20_10_2022\obj\Debug\net6.0\home task 5 20_10_2022.dll
+C:\Users\ад\Desktop\home task 5 20_10_2022\obj\Debug\net6.0\refint\home task 5 20_10_2022.dll
+C:\Users\ад\Desktop\home task 5 20_10_2022\obj\Debug\net6.0\home task 5 20_10_2022.pdb
+C:\Users\ад\Desktop\home task 5 20_10_2022\obj\Debug\net6.0\home task 5 20_10_2022.genruntimeconfig.cache
+C:\Users\ад\Desktop\home task 5 20_10_2022\obj\Debug\net6.0\ref\home task 5 20_10_2022.dll
